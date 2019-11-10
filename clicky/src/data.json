@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/ai.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/demar.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/dlo.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/giannis.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/harden.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/kd.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/kobe.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/lavine.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/lebron.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/rose.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/russ.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/lillard.jpeg",
+    "clicked": false
+  }
+]
